@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(29, 28, 28);
+}
+#MyClockDisplay{
+
+    width: 700px;
+    text-align: center;
+    position: relative;
+    top: 200px;
+    left: 350px;
+    /* transform: translateX(-50%) translateY(-50%); */
+    color: rgb(161, 206, 207);
+    font-size: 100px;
+    padding: 30px;
+    border: 2px solid rgb(197, 197, 197);
+    border-radius: 6px;
+    font-family: 'digital-clock-font';
+}
